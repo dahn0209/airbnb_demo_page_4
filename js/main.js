@@ -1,4 +1,3 @@
-console.log("---> deeee")
 
 
 const inTitle=document.querySelector("#input-title")
